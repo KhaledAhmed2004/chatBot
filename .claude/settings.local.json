@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm init:*)",
+      "Bash(npm install:*)",
+      "Bash(curl:*)",
+      "Bash(powershell -Command:*)",
+      "WebFetch(domain:www.take.app)",
+      "WebFetch(domain:innovationiseverywhere.com)",
+      "WebFetch(domain:www.saasworthy.com)",
+      "WebFetch(domain:www.jotform.com)",
+      "WebFetch(domain:help.take.app)",
+      "WebFetch(domain:techcrunch.com)",
+      "WebFetch(domain:sg.news.yahoo.com)",
+      "WebFetch(domain:vulcanpost.com)"
+    ]
+  }
+}

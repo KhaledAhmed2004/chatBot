@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Earbuds",
+    "name_bn": "ওয়্যারলেস ইয়ারবাড",
+    "price": 850,
+    "category": "electronics",
+    "description": "Bluetooth 5.0, noise cancelling, 24hr battery",
+    "stock": 25
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "name_bn": "স্মার্ট ওয়াচ",
+    "price": 1500,
+    "category": "electronics",
+    "description": "Heart rate monitor, step counter, waterproof",
+    "stock": 15
+  },
+  {
+    "id": 3,
+    "name": "Graphic T-Shirt",
+    "name_bn": "গ্রাফিক টি-শার্ট",
+    "price": 450,
+    "category": "clothing",
+    "description": "100% cotton, premium print, sizes M-XXL",
+    "stock": 50
+  },
+  {
+    "id": 4,
+    "name": "Phone Case (Premium)",
+    "name_bn": "ফোন কেস (প্রিমিয়াম)",
+    "price": 350,
+    "category": "accessories",
+    "description": "Shockproof, slim design, all models available",
+    "stock": 100
+  },
+  {
+    "id": 5,
+    "name": "Backpack",
+    "name_bn": "ব্যাকপ্যাক",
+    "price": 1200,
+    "category": "bags",
+    "description": "Laptop compartment, waterproof, USB charging port",
+    "stock": 30
+  },
+  {
+    "id": 6,
+    "name": "Bluetooth Speaker",
+    "name_bn": "ব্লুটুথ স্পিকার",
+    "price": 950,
+    "category": "electronics",
+    "description": "10W output, waterproof, 12hr battery",
+    "stock": 20
+  }
+]
