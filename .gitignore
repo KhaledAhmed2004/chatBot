@@ -13,9 +13,12 @@ frontend/.next/
 *.log
 .DS_Store
 
-# Claude Code
-.claude/settings.local.json
+# Claude Code & Root files
+.claude/
 .mcp.json
+CLAUDE.md
+README.md
+package.json
 SESSION-LOG.md
 TAKE-APP-RESEARCH.md
 WEB-STORE-DOCS.md
