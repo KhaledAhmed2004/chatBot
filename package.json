@@ -1,21 +1,11 @@
 {
-  "name": "chatbot",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "chatbot-project",
+  "private": true,
   "scripts": {
-    "start": "node index.js",
-    "dev": "node --watch index.js"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "dependencies": {
-    "@google/generative-ai": "^0.24.1",
-    "axios": "^1.13.5",
-    "better-sqlite3": "^12.6.2",
-    "dotenv": "^17.3.1",
-    "express": "^5.2.1"
+    "dev": "cd backend && node --watch index.js",
+    "start": "cd backend && node index.js",
+    "frontend:dev": "cd frontend && npm run dev",
+    "frontend:build": "cd frontend && npm run build",
+    "setup": "cd backend && npm install && cd ../frontend && npm install"
   }
 }

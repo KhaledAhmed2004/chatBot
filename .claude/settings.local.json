@@ -12,7 +12,11 @@
       "WebFetch(domain:help.take.app)",
       "WebFetch(domain:techcrunch.com)",
       "WebFetch(domain:sg.news.yahoo.com)",
-      "WebFetch(domain:vulcanpost.com)"
+      "WebFetch(domain:vulcanpost.com)",
+      "WebFetch(domain:take.app)",
+      "WebFetch(domain:beginerguide.com)",
+      "Bash(npm run build)",
+      "WebFetch(domain:www.callbell.shop)"
     ]
   }
 }

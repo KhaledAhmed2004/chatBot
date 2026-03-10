@@ -1,7 +1,21 @@
-node_modules/
-.env
-data/*.db
-data/*.db-wal
-data/*.db-shm
+# Backend
+backend/node_modules/
+backend/.env
+backend/data/*.db
+backend/data/*.db-wal
+backend/data/*.db-shm
+
+# Frontend
+frontend/node_modules/
+frontend/.next/
+
+# General
 *.log
 .DS_Store
+
+# Claude Code
+.claude/settings.local.json
+.mcp.json
+SESSION-LOG.md
+TAKE-APP-RESEARCH.md
+WEB-STORE-DOCS.md
